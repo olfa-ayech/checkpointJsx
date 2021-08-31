@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/checkpoint_jsx/static/css/main.c1ab0308.chunk.css",
+    "main.js": "/checkpoint_jsx/static/js/main.fdfe7fdc.chunk.js",
+    "main.js.map": "/checkpoint_jsx/static/js/main.fdfe7fdc.chunk.js.map",
+    "runtime-main.js": "/checkpoint_jsx/static/js/runtime-main.c09be57f.js",
+    "runtime-main.js.map": "/checkpoint_jsx/static/js/runtime-main.c09be57f.js.map",
+    "static/js/2.c9d7e6fd.chunk.js": "/checkpoint_jsx/static/js/2.c9d7e6fd.chunk.js",
+    "static/js/2.c9d7e6fd.chunk.js.map": "/checkpoint_jsx/static/js/2.c9d7e6fd.chunk.js.map",
+    "static/js/3.f8a3fad5.chunk.js": "/checkpoint_jsx/static/js/3.f8a3fad5.chunk.js",
+    "static/js/3.f8a3fad5.chunk.js.map": "/checkpoint_jsx/static/js/3.f8a3fad5.chunk.js.map",
+    "index.html": "/checkpoint_jsx/index.html",
+    "static/css/main.c1ab0308.chunk.css.map": "/checkpoint_jsx/static/css/main.c1ab0308.chunk.css.map",
+    "static/js/2.c9d7e6fd.chunk.js.LICENSE.txt": "/checkpoint_jsx/static/js/2.c9d7e6fd.chunk.js.LICENSE.txt",
+    "static/media/tunisie.088b1097.jpg": "/checkpoint_jsx/static/media/tunisie.088b1097.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c09be57f.js",
+    "static/js/2.c9d7e6fd.chunk.js",
+    "static/css/main.c1ab0308.chunk.css",
+    "static/js/main.fdfe7fdc.chunk.js"
+  ]
+}
